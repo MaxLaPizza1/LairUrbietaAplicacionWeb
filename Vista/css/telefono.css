@@ -1,0 +1,32 @@
+@media screen and (min-width: 480px){
+    #menu_principal{
+        width: 100%;
+        min-width: 320px;
+        position: absolute;
+        top: -220px;
+    }   
+    #menu_principal a{
+        display: block;
+        color:floralwhite;
+    }
+    #menu_principal #desplegar_menu{
+        display: block;
+        padding: 0px;
+        margin: 0px;
+        font: bold 2rem verdana, sans-serif;
+    }
+    #menu_principal:hover{
+        top:0px;
+    }
+    #menu_principal a:hover:not(#desplegar_menu){
+        border-color: brown;
+        background-color:rgb(73, 21, 21, 0.5);
+    }
+    #menu_principal{
+        -webkit-transition: all .4s ease-in-out;
+        -moz-transition: all .4s ease-in-out;
+        -o-transition: all .4s ease-in-out;
+        -ms-transition: all .4s ease-in-out;
+        transition: all .4s ease-in-out;
+    }
+}

@@ -1,0 +1,59 @@
+@media screen and (max-width:1024px){
+    #menu_principal{
+        padding: 10px 40px;  
+    }
+    #galeria img{
+        display: block;
+        margin: 40px;
+        width: 90%;
+    }
+    .servicio{
+        display: block;
+        margin: 40px;
+        width: 90%;
+    }
+    .redes{
+        display: block;
+        margin: 40px;
+        width: 90%;
+    }
+    .proceso{
+        display: block;
+        margin: 40px;
+        width: 90%;
+    }
+    #servicio{
+        display: block;
+        margin: 40px;
+        width: 90%;
+        height: 1900px;
+    }
+    #proceso{
+        display: block;
+        margin: 40px;
+        width: 90%;
+        height: 1400px;
+    }
+    #cuadro1{
+        display: block;
+        margin: 40px;
+        width: 90%;
+    }
+    #cuadro2{
+        display: block;
+        margin: 40px;
+        width: 90%;
+    }
+    #cuadro3{
+        display: block;
+        margin: 40px;
+        width: 90%;
+    }
+    #cuadro4{
+        display: block;
+        margin: 40px;
+        width: 90%;
+    }
+
+
+}
